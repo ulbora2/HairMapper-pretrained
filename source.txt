@@ -1,0 +1,1 @@
+Thanks for submitting your contact info! :) Please download pretrained models from: [Final HairMapper](https://drive.google.com/file/d/1F3oujXbvalqEOixcAkIyURuY512nmroe) [Man HairMapper](https://drive.google.com/file/d/1dSrypVSbygM5Z3lupvoV56PpYUtHPbns) 
